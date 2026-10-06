@@ -1,15 +1,15 @@
 {
-  "version": "1.0.0",
-  "buildNumber": 4,
-  "tag": null,
-  "commit": "2aaf9f41b50bfe337562d20829f1f1b80f5b0859",
-  "ref": "main",
+  "version": "1.0.1",
+  "buildNumber": 6,
+  "tag": "v1.0.1",
+  "commit": "608feea6b4397a1c94d1d4fc413cb05056d927a2",
+  "ref": "v1.0.1",
   "sourceRepository": "abbaaminu/ProctorGuard",
-  "builtAt": "2026-10-06T05:47:25Z",
-  "runId": 37417257968,
+  "builtAt": "2026-10-06T11:25:54Z",
+  "runId": 37455184262,
   "files": [
-    { "name": "app-arm64-v8a-release.apk", "sizeBytes": 34863176, "sha256": "fee6d9f7140cdb84078b716081a562275a10da57e8cd4edc57bf5b41281ce532" },
-    { "name": "app-armeabi-v7a-release.apk", "sizeBytes": 29307580, "sha256": "d519d32d53845f214b639bc182a95ed0e8a9642d38b29c935db197bbcafa329d" },
-    { "name": "app-x86_64-release.apk", "sizeBytes": 37550150, "sha256": "31b61aeb7852a830e898771f171a331ce30ddcb8e4be20714f3b1811d3fea602" }
+    { "name": "app-arm64-v8a-release.apk", "sizeBytes": 35389092, "sha256": "c31b8f81cdb897bca734b1ee599b473800d6cdee556e640d051ffa3a00a68ca4" },
+    { "name": "app-armeabi-v7a-release.apk", "sizeBytes": 29817108, "sha256": "8ae4dd487aa740d87abd6dcca7a1d3608746b883c28128ba10153da404cb4415" },
+    { "name": "app-x86_64-release.apk", "sizeBytes": 38076066, "sha256": "3b988113db80501616b14ad5ac5f72be086896b3cc326cf0210d6360cef68071" }
   ]
 }
