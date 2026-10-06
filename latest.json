@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "buildNumber": 4,
+  "tag": null,
+  "commit": "2aaf9f41b50bfe337562d20829f1f1b80f5b0859",
+  "ref": "main",
+  "sourceRepository": "abbaaminu/ProctorGuard",
+  "builtAt": "2026-10-06T05:47:25Z",
+  "runId": 37417257968,
+  "files": [
+    { "name": "app-arm64-v8a-release.apk", "sizeBytes": 34863176, "sha256": "fee6d9f7140cdb84078b716081a562275a10da57e8cd4edc57bf5b41281ce532" },
+    { "name": "app-armeabi-v7a-release.apk", "sizeBytes": 29307580, "sha256": "d519d32d53845f214b639bc182a95ed0e8a9642d38b29c935db197bbcafa329d" },
+    { "name": "app-x86_64-release.apk", "sizeBytes": 37550150, "sha256": "31b61aeb7852a830e898771f171a331ce30ddcb8e4be20714f3b1811d3fea602" }
+  ]
+}
