@@ -48,7 +48,7 @@ repository's Git history.
 | | |
 | --- | --- |
 | version | 1.0.0 |
-| build number | 15 |
-| commit | f2d473b |
+| build number | 17 |
+| commit | cfc6313 |
 | tag | v1.0.0 |
-| built | 2026-10-21T11:35:41Z |
+| built | 2026-10-21T13:47:01Z |
