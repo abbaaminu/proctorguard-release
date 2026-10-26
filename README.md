@@ -47,8 +47,8 @@ repository's Git history.
 
 | | |
 | --- | --- |
-| version | 1.0.1 |
-| build number | 37 |
+| version | 1.0.0 |
+| build number | 36 |
 | commit | 805adad |
-| tag | v1.0.1 |
-| built | 2026-10-26T13:52:31Z |
+| ref | main |
+| built | 2026-10-26T14:18:42Z |
