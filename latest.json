@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "buildNumber": 11,
+  "version": "1.0.3",
+  "buildNumber": 18,
   "files": [
-    { "name": "app-arm64-v8a-release.apk", "sizeBytes": 38162209, "sha256": "59076a64336fc17962451db127f73b5852cd96acd30689d2d453c52c2706f508" },
-    { "name": "app-armeabi-v7a-release.apk", "sizeBytes": 32393627, "sha256": "3fb7cde56f4fa5ed3eda5f4d3073063a97973cb2654857ff29519e7249bfb5ea" },
-    { "name": "app-x86_64-release.apk", "sizeBytes": 40914710, "sha256": "87165460c6c59e7a1a20358618ff2095904a253e82634cf64c8b27bedfc778cb" }
+    { "name": "app-arm64-v8a-release.apk", "sizeBytes": 38293861, "sha256": "2bea10a1396501703296dbdfdafb2fc59233373ad7ed1b1343c8a96bec6fa38f" },
+    { "name": "app-armeabi-v7a-release.apk", "sizeBytes": 32574431, "sha256": "9e85e2680030d6ddc76ea8f0cc5a0037c8dc019317a6855c3aa9f9de3ed18221" },
+    { "name": "app-x86_64-release.apk", "sizeBytes": 41046366, "sha256": "528570ef0545ba2c9b3b6973d57a24c5486fed773462f3e8843e87ec16169159" }
   ]
 }
